@@ -157,6 +157,11 @@ body {
 	font-size: 22px;
 }
 
+.img-fluid, .picture img, .size-slide {
+	width: 100%;
+	height: auto;
+}
+
 #services {
 	margin: auto;
 	background-color: #A8D5D8 ;
