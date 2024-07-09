@@ -157,7 +157,11 @@ body {
 	font-size: 22px;
 }
 
-.img-fluid, .picture img, .size-slide {
+.img-fluid {
+	width: 100%;
+}
+
+.picture img, .size-slide {
 	width: 100%;
 	height: auto;
 }
